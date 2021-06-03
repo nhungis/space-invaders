@@ -8,11 +8,10 @@
 *.tcs
 *.info
 *.properties
-*.gitignore
-*.gitattributes
 
 /out/
 /CodeGymPlugin.properties
 /Instruction.png
 /out.log
 /out.log.*
+*.gitattributes
