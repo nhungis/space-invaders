@@ -1,10 +1,10 @@
-package com.codegym.games.spaceinvaders;
+package com.spaceinvaders;
 
 import com.codegym.engine.cell.*;
-import com.codegym.games.spaceinvaders.gameobjects.Bullet;
-import com.codegym.games.spaceinvaders.gameobjects.EnemyFleet;
-import com.codegym.games.spaceinvaders.gameobjects.PlayerShip;
-import com.codegym.games.spaceinvaders.gameobjects.Star;
+import com.spaceinvaders.gameobjects.Bullet;
+import com.spaceinvaders.gameobjects.EnemyFleet;
+import com.spaceinvaders.gameobjects.PlayerShip;
+import com.spaceinvaders.gameobjects.Star;
 
 import java.util.ArrayList;
 import java.util.List;

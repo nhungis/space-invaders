@@ -1,9 +1,9 @@
-package com.codegym.games.spaceinvaders.gameobjects;
+package com.spaceinvaders.gameobjects;
 
 import com.codegym.engine.cell.Game;
-import com.codegym.games.spaceinvaders.Direction;
-import com.codegym.games.spaceinvaders.ShapeMatrix;
-import com.codegym.games.spaceinvaders.SpaceInvadersGame;
+import com.spaceinvaders.Direction;
+import com.spaceinvaders.ShapeMatrix;
+import com.spaceinvaders.SpaceInvadersGame;
 
 import java.util.ArrayList;
 import java.util.List;

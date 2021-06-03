@@ -8,6 +8,8 @@
 *.tcs
 *.info
 *.properties
+*.gitignore
+*.gitattributes
 
 /out/
 /CodeGymPlugin.properties

@@ -1,4 +1,4 @@
-package com.codegym.games.spaceinvaders.gameobjects;
+package com.spaceinvaders.gameobjects;
 
 import com.codegym.engine.cell.Game;
 

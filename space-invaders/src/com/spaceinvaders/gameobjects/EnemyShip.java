@@ -1,7 +1,7 @@
-package com.codegym.games.spaceinvaders.gameobjects;
+package com.spaceinvaders.gameobjects;
 
-import com.codegym.games.spaceinvaders.Direction;
-import com.codegym.games.spaceinvaders.ShapeMatrix;
+import com.spaceinvaders.Direction;
+import com.spaceinvaders.ShapeMatrix;
 
 public class EnemyShip extends Ship {
     public int score = 15;

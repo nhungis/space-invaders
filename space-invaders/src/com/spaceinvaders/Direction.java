@@ -1,4 +1,4 @@
-package com.codegym.games.spaceinvaders;
+package com.spaceinvaders;
 
 public enum Direction {
     RIGHT,
