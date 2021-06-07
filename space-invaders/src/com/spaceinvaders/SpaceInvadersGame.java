@@ -13,7 +13,7 @@ public class SpaceInvadersGame extends Game {
     public static final int WIDTH = 64;
     public static final int HEIGHT = 64;
     public static final int DIFFICULTY = 5;
-    private static final int PLAYER_BULLETS_MAX = 1;
+    private static final int PLAYER_BULLETS_MAX = 3;
 
     private List<Star> stars;
     private EnemyFleet enemyFleet;
